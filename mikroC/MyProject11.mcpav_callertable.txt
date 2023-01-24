@@ -1,0 +1,12 @@
+main
+	uartInit
+	adcInit
+comAdc
+	sendData
+transComp
+res
+	startAdc
+	sendData
+	offPwm
+	onPwm
+btn

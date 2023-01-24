@@ -1,0 +1,4 @@
+date:2023-01-21, time:22:32
+adc:0000001011111001
+volt level:761
+volt value:3.7195V
